@@ -1,12 +1,1 @@
-- 👋 Hi, I’m @RitekPillai
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Godot Engine
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-RitekPillai/RitekPillai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![f1e734f9cade86fe737a9aa404ad5677](https://github.com/user-attachments/assets/daaf74dc-27ea-4607-be8d-74a017367cb8)
